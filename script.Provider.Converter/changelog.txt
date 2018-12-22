@@ -1,0 +1,12 @@
+﻿
+v1.0.1
+(12-22-2018)
+* added downloadV2
+
+v1.0.0
+(12-11-2018)
+* fixed download yoda
+* various minor fixes
+
+(12-10-2018)
+* Initial Release
