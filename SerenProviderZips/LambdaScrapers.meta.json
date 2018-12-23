@@ -2,6 +2,6 @@
   "author": "Anonymous",
   "version":"1.8.0",
   "name":"LambdaScrapers",
-  "update_directory": "",
-  "remote_meta": ""
+  "update_directory": "https://raw.githubusercontent.com/Stars33d/Provider-Converter-Repo/master/SerenProviderZips/",
+  "remote_meta": "https://raw.githubusercontent.com/Stars33d/Provider-Converter-Repo/master/SerenProviderZips/LambdaScrapers.meta.json"
 }
