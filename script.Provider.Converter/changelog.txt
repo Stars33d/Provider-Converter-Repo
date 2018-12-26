@@ -1,0 +1,17 @@
+﻿todo - fix install bug on downloadV2 - line#159
+
+v1.0.2
+(12-23-2018)
+* code cleanup / localized strings
+
+v1.0.1
+(12-22-2018)
+* added downloadV2 (alternate remote download - forked of backup addon by robweber)
+
+v1.0.0
+(12-11-2018)
+* fixed download yoda
+* various minor fixes
+
+(12-10-2018)
+* Initial Release
